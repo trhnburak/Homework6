@@ -85,17 +85,17 @@ class ViewController: UIViewController {
 
         //Popular Brand
         popularBrandImageView1.layer.borderWidth = 1
-        popularBrandImageView1.layer.borderColor = UIColor(named: "gray-2")?.cgColor
+        popularBrandImageView1.layer.borderColor = UIColor(named: "grey-1")?.cgColor
         popularBrandImageView1.layer.cornerRadius = 6
 
 
         popularBrandImageView2.layer.borderWidth = 1
-        popularBrandImageView2.layer.borderColor = UIColor(named: "gray-2")?.cgColor
+        popularBrandImageView2.layer.borderColor = UIColor(named: "grey-1")?.cgColor
         popularBrandImageView2.layer.cornerRadius = 6
 
 
         popularBrandImageView3.layer.borderWidth = 1
-        popularBrandImageView3.layer.borderColor = UIColor(named: "gray-2")?.cgColor
+        popularBrandImageView3.layer.borderColor = UIColor(named: "grey-1")?.cgColor
         popularBrandImageView3.layer.cornerRadius = 6
 
 
